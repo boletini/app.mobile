@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Your_name">What\'s your name</string>
+    <string name="Next">Next</string>
+    <string name="Logo">Applicantion Logo</string>
+
+
+</resources>
